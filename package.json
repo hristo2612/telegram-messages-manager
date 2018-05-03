@@ -1,0 +1,24 @@
+{
+  "name": "telegram-messages-manager",
+  "version": "1.0.0",
+  "description": "Simple bot for reading, writing, creating new messages in chats, in telegram. Does not create a bot, but instead uses current user account to CRUD messages.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/hristo2612/telegram-messages-manager.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/hristo2612/telegram-messages-manager/issues"
+  },
+  "homepage": "https://github.com/hristo2612/telegram-messages-manager#readme",
+  "dependencies": {
+    "ramda": "^0.25.0",
+    "telegram-mtproto": "^2.2.2"
+  }
+}
