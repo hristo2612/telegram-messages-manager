@@ -4,7 +4,7 @@
   "description": "Simple bot for reading, writing, creating new messages in chats, in telegram. Does not create a bot, but instead uses current user account to CRUD messages.",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start": "node index"
   },
   "repository": {
     "type": "git",
